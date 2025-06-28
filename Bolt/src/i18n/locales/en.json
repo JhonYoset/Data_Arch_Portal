@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Home",
+    "team": "Team",
+    "projects": "Projects",
+    "announcements": "Announcements"
+  },
+  "home": {
+    "title": "Welcome to Data Arch Labs",
+    "subtitle": "An interdisciplinary research group pushing the boundaries of AI, sustainable design, and data science to create innovative solutions for tomorrow's challenges.",
+    "exploreProjects": "Explore Projects",
+    "meetTeam": "Meet Our Team",
+    "stats": {
+      "activeProjects": "Active Projects",
+      "teamMembers": "Team Members",
+      "researchAreas": "Research Areas",
+      "publications": "Publications"
+    },
+    "researchAreas": {
+      "title": "Our Research Areas",
+      "subtitle": "We focus on interdisciplinary research that combines technology, design, and data to solve real-world problems.",
+      "ai": {
+        "title": "Artificial Intelligence",
+        "description": "Cutting-edge AI research and development for innovative solutions."
+      },
+      "sustainable": {
+        "title": "Sustainable Design",
+        "description": "Eco-friendly architectural solutions for a better future."
+      },
+      "dataScience": {
+        "title": "Data Science",
+        "description": "Advanced analytics and insights from complex datasets."
+      }
+    },
+    "quickAccess": {
+      "title": "Quick Access",
+      "subtitle": "Navigate to the most important sections of our portal.",
+      "team": {
+        "title": "Team",
+        "description": "Meet our diverse team of researchers and students.",
+        "action": "View Team"
+      },
+      "projects": {
+        "title": "Projects",
+        "description": "Explore our current research projects and findings.",
+        "action": "View Projects"
+      },
+      "announcements": {
+        "title": "Announcements",
+        "description": "Stay updated with the latest news and events.",
+        "action": "View Announcements"
+      }
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the diverse group of researchers, students, and professionals driving innovation at Data Arch Labs.",
+    "viewProfile": "View Full Profile",
+    "joinUs": {
+      "title": "Interested in Joining Our Team?",
+      "subtitle": "We're always looking for passionate researchers and students to join our interdisciplinary team.",
+      "action": "Get in Touch"
+    },
+    "members": {
+      "santiago": {
+        "name": "Santiago",
+        "role": "Principal Investigator",
+        "bio": "Leading the research group with expertise in computational design and AI applications.",
+        "fullBio": "Santiago is the Principal Investigator leading Data Arch Labs with over 10 years of experience in computational design and AI applications. His research focuses on the intersection of artificial intelligence and architectural design, developing innovative tools and methodologies for sustainable building practices.",
+        "areas": ["AI Research", "Project Management", "Computational Design", "Sustainable Architecture", "Machine Learning"],
+        "education": [
+          "PhD in Computational Design, MIT (2018)",
+          "MSc in Architecture, Harvard GSD (2014)",
+          "BSc in Computer Science, Stanford (2012)"
+        ],
+        "publications": [
+          "AI-Driven Parametric Design for Sustainable Architecture (2024)",
+          "Machine Learning in Computational Design (2023)",
+          "Biophilic Design Principles in Urban Planning (2023)",
+          "Generative AI for Architectural Visualization (2022)"
+        ]
+      },
+      "dario": {
+        "name": "Dario",
+        "role": "Computer Science Researcher",
+        "bio": "Researcher in Computer Science with focus on AI and software development.",
+        "fullBio": "Dario brings extensive experience in software engineering and AI research to the team. His background includes work at leading tech companies and academic institutions, where he has developed cutting-edge algorithms and systems. He is particularly interested in the practical applications of AI in real-world scenarios and has contributed to several open-source projects.",
+        "areas": ["Artificial Intelligence", "Software Development", "Machine Learning", "Algorithm Design", "Open Source"],
+        "education": [
+          "MSc in Computer Science, Carnegie Mellon (2020)",
+          "BSc in Software Engineering, UC Berkeley (2018)"
+        ],
+        "publications": [
+          "Efficient Algorithms for Large-Scale Data Processing (2024)",
+          "AI Systems for Architectural Applications (2023)",
+          "Open Source Tools for Research Collaboration (2022)"
+        ]
+      },
+      "naomi": {
+        "name": "Naomi",
+        "role": "Architecture Student",
+        "bio": "Architecture student interested in sustainable design and AI applications in architecture.",
+        "fullBio": "Naomi is pursuing her Master's degree in Architecture with a focus on sustainable and biophilic design. Her undergraduate work in environmental science provides her with a unique interdisciplinary perspective. She is particularly interested in how AI can be used to optimize building performance and create more harmonious relationships between built and natural environments.",
+        "areas": ["Sustainable Design", "Biophilic Architecture", "AI in Design", "Environmental Science", "Green Building"],
+        "education": [
+          "MSc in Architecture (In Progress), Yale School of Architecture",
+          "BSc in Environmental Science, UCLA (2022)"
+        ],
+        "publications": [
+          "Biophilic Design in Educational Environments (2024)",
+          "Sustainable Materials in Contemporary Architecture (2023)"
+        ]
+      },
+      "fabiola": {
+        "name": "Fabiola",
+        "role": "Systems Engineer",
+        "bio": "Systems Engineer interested in data science and computational analysis.",
+        "fullBio": "Fabiola combines her engineering background with advanced data science skills to tackle complex analytical challenges. Her experience spans from traditional systems engineering to modern data analytics and machine learning applications. She is passionate about using data to drive insights and inform decision-making in research and design processes.",
+        "areas": ["Data Science", "Systems Engineering", "Data Analytics", "Statistical Modeling", "Visualization"],
+        "education": [
+          "MSc in Data Science, Georgia Tech (2021)",
+          "BSc in Systems Engineering, University of Texas (2019)"
+        ],
+        "publications": [
+          "Data-Driven Approaches to Sustainable Design (2024)",
+          "Statistical Analysis of Building Performance (2023)",
+          "Visualization Techniques for Complex Datasets (2022)"
+        ]
+      }
+    },
+    "about": "About",
+    "researchAreas": "Research Areas",
+    "publications": "Publications",
+    "education": "Education",
+    "currentProjects": "Current Projects",
+    "memberNotFound": "Member Not Found",
+    "backToTeam": "Back to Team"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Explore our current research projects that push the boundaries of AI, sustainable design, and data science.",
+    "status": {
+      "active": "Active",
+      "completed": "Completed"
+    },
+    "startedIn": "Started in",
+    "keyHighlights": "Key Highlights:",
+    "viewDetails": "View Project Details",
+    "collaboration": {
+      "title": "Interested in Collaboration?",
+      "subtitle": "We're always open to new partnerships and collaborative research opportunities. Get in touch to discuss potential projects.",
+      "action": "Contact Us"
+    },
+    "elevatedCycleway": {
+      "title": "Elevated Cycleway",
+      "description": "Innovative elevated cycling infrastructure design using computational tools and AI-generated visualizations.",
+      "summary": "This project explores the design of elevated cycling infrastructure using advanced computational design tools. We utilize Rhino and Grasshopper for parametric modeling and incorporate AI-generated imagery and videos to visualize future cycling environments.",
+      "overview": "The Elevated Cycleway project represents a groundbreaking approach to urban mobility infrastructure. By combining advanced computational design tools with artificial intelligence, we are developing innovative solutions for elevated cycling networks that can transform urban transportation. This project leverages the power of Rhino and Grasshopper for parametric design, while incorporating AI-generated imagery and videos to visualize future cycling environments.",
+      "objectives": [
+        "Design efficient elevated cycling infrastructure using parametric modeling",
+        "Integrate AI-generated visualizations for enhanced project communication",
+        "Develop sustainable urban mobility solutions",
+        "Create reusable computational design frameworks"
+      ],
+      "methodology": "Our approach combines traditional architectural design methods with cutting-edge computational tools. We use Rhino 3D for base modeling and Grasshopper for parametric design, allowing us to rapidly iterate and optimize designs. AI tools are employed to generate realistic visualizations and explore design possibilities that might not be immediately apparent through traditional methods.",
+      "highlights": [
+        "Parametric design using Grasshopper",
+        "AI-generated visualizations",
+        "Sustainable urban mobility solutions",
+        "Integration of computational design tools"
+      ]
+    },
+    "biophilicSchools": {
+      "title": "Biophilic Design – Schools",
+      "description": "Research on integrating biophilic design principles in educational environments to enhance learning and well-being.",
+      "summary": "This research project investigates how biophilic design principles can be effectively integrated into school environments to create healthier, more engaging learning spaces that connect students with nature.",
+      "overview": "The Biophilic Design – Schools project investigates how the integration of natural elements and biophilic design principles can significantly enhance learning environments in educational settings. This research combines evidence-based design strategies with innovative architectural solutions to create spaces that not only support academic achievement but also promote student well-being and environmental consciousness.",
+      "objectives": [
+        "Research the impact of biophilic design on student learning and well-being",
+        "Develop design guidelines for educational environments",
+        "Create evidence-based recommendations for school architecture",
+        "Promote sustainable and healthy learning spaces"
+      ],
+      "methodology": "Our research methodology includes comprehensive literature review, case study analysis, and field research in existing educational facilities. We employ both quantitative and qualitative research methods to understand the relationship between natural design elements and educational outcomes. Data collection includes environmental measurements, student surveys, and academic performance analysis.",
+      "highlights": [
+        "Pre-design research and analysis",
+        "Evidence-based design strategies",
+        "Student well-being focus",
+        "Environmental sustainability"
+      ]
+    },
+    "projectNotFound": "Project Not Found",
+    "backToProjects": "Back to Projects",
+    "projectOverview": "Project Overview",
+    "objectives": "Objectives",
+    "methodology": "Methodology",
+    "projectDetails": "Project Details",
+    "teamMembers": "Team Members",
+    "projectResources": "Project Resources",
+    "projectGallery": "Project Gallery"
+  },
+  "announcements": {
+    "title": "Announcements",
+    "subtitle": "Stay updated with the latest news, events, and developments from Data Arch Labs.",
+    "types": {
+      "meeting": "Meeting",
+      "publication": "Publication",
+      "conference": "Conference",
+      "team": "Team",
+      "funding": "Funding"
+    },
+    "priority": {
+      "high": "High Priority",
+      "medium": "Medium Priority",
+      "low": "Low Priority"
+    },
+    "joinMeeting": "Join Meeting",
+    "learnMore": "Learn More",
+    "stayUpdated": {
+      "title": "Stay Updated",
+      "subtitle": "Want to receive announcements directly? Contact us to join our mailing list and never miss important updates.",
+      "action": "Subscribe to Updates"
+    },
+    "items": {
+      "weeklyMeeting": {
+        "title": "Weekly Research Meeting - Project Updates",
+        "content": "Join us for our weekly research meeting where team members will present updates on current projects. We'll discuss progress on the Elevated Cycleway project and review findings from the Biophilic Design research.",
+        "attendees": "All team members"
+      },
+      "newPublication": {
+        "title": "New Publication: AI in Sustainable Architecture",
+        "content": "We're excited to announce the publication of our latest research paper \"AI-Driven Parametric Design for Sustainable Architecture\" in the Journal of Computational Design. This work represents a significant milestone in our research on computational design methodologies."
+      },
+      "conference": {
+        "title": "Conference Presentation at DigitalFUTURES 2025",
+        "content": "Santiago will be presenting our Elevated Cycleway project at the DigitalFUTURES 2025 conference. The presentation will showcase our innovative use of AI in urban infrastructure design and the integration of computational tools in the design process."
+      },
+      "newMember": {
+        "title": "Welcome New Team Member: Dr. Elena Rodriguez",
+        "content": "We're pleased to welcome Dr. Elena Rodriguez to our research group. Elena brings expertise in environmental psychology and sustainable design, which will greatly enhance our biophilic design research initiatives."
+      },
+      "funding": {
+        "title": "Grant Funding Secured for Biophilic Schools Project",
+        "content": "Great news! We've secured additional funding from the Sustainable Education Foundation to expand our Biophilic Design – Schools project. This funding will allow us to conduct more comprehensive field studies and develop detailed design guidelines."
+      }
+    }
+  },
+  "footer": {
+    "description": "Interdisciplinary research group focusing on AI, sustainable design, and data science innovations.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "version": "Version 0.1.1",
+    "copyright": "© 2025 Data Arch Labs. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "notFound": "Not Found",
+    "backToHome": "Back to Home",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "close": "Close",
+    "open": "Open",
+    "menu": "Menu"
+  }
+}

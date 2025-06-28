@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "team": "Equipo",
+    "projects": "Proyectos",
+    "announcements": "Anuncios"
+  },
+  "home": {
+    "title": "Bienvenido a Data Arch Labs",
+    "subtitle": "Un grupo de investigación interdisciplinario que empuja los límites de la IA, el diseño sostenible y la ciencia de datos para crear soluciones innovadoras para los desafíos del mañana.",
+    "exploreProjects": "Explorar Proyectos",
+    "meetTeam": "Conoce Nuestro Equipo",
+    "stats": {
+      "activeProjects": "Proyectos Activos",
+      "teamMembers": "Miembros del Equipo",
+      "researchAreas": "Áreas de Investigación",
+      "publications": "Publicaciones"
+    },
+    "researchAreas": {
+      "title": "Nuestras Áreas de Investigación",
+      "subtitle": "Nos enfocamos en investigación interdisciplinaria que combina tecnología, diseño y datos para resolver problemas del mundo real.",
+      "ai": {
+        "title": "Inteligencia Artificial",
+        "description": "Investigación y desarrollo de IA de vanguardia para soluciones innovadoras."
+      },
+      "sustainable": {
+        "title": "Diseño Sostenible",
+        "description": "Soluciones arquitectónicas ecológicas para un futuro mejor."
+      },
+      "dataScience": {
+        "title": "Ciencia de Datos",
+        "description": "Análisis avanzado e insights de conjuntos de datos complejos."
+      }
+    },
+    "quickAccess": {
+      "title": "Acceso Rápido",
+      "subtitle": "Navega a las secciones más importantes de nuestro portal.",
+      "team": {
+        "title": "Equipo",
+        "description": "Conoce nuestro diverso equipo de investigadores y estudiantes.",
+        "action": "Ver Equipo"
+      },
+      "projects": {
+        "title": "Proyectos",
+        "description": "Explora nuestros proyectos de investigación actuales y hallazgos.",
+        "action": "Ver Proyectos"
+      },
+      "announcements": {
+        "title": "Anuncios",
+        "description": "Mantente actualizado con las últimas noticias y eventos.",
+        "action": "Ver Anuncios"
+      }
+    }
+  },
+  "team": {
+    "title": "Nuestro Equipo",
+    "subtitle": "Conoce al diverso grupo de investigadores, estudiantes y profesionales que impulsan la innovación en Data Arch Labs.",
+    "viewProfile": "Ver Perfil Completo",
+    "joinUs": {
+      "title": "¿Interesado en Unirte a Nuestro Equipo?",
+      "subtitle": "Siempre estamos buscando investigadores y estudiantes apasionados para unirse a nuestro equipo interdisciplinario.",
+      "action": "Ponte en Contacto"
+    },
+    "members": {
+      "santiago": {
+        "name": "Santiago",
+        "role": "Investigador Principal",
+        "bio": "Liderando el grupo de investigación con experiencia en diseño computacional y aplicaciones de IA.",
+        "fullBio": "Santiago es el Investigador Principal que lidera Data Arch Labs con más de 10 años de experiencia en diseño computacional y aplicaciones de IA. Su investigación se centra en la intersección de la inteligencia artificial y el diseño arquitectónico, desarrollando herramientas y metodologías innovadoras para prácticas de construcción sostenible.",
+        "areas": ["Investigación en IA", "Gestión de Proyectos", "Diseño Computacional", "Arquitectura Sostenible", "Aprendizaje Automático"],
+        "education": [
+          "PhD en Diseño Computacional, MIT (2018)",
+          "MSc en Arquitectura, Harvard GSD (2014)",
+          "BSc en Ciencias de la Computación, Stanford (2012)"
+        ],
+        "publications": [
+          "Diseño Paramétrico Impulsado por IA para Arquitectura Sostenible (2024)",
+          "Aprendizaje Automático en Diseño Computacional (2023)",
+          "Principios de Diseño Biofílico en Planificación Urbana (2023)",
+          "IA Generativa para Visualización Arquitectónica (2022)"
+        ]
+      },
+      "dario": {
+        "name": "Dario",
+        "role": "Investigador en Ciencias de la Computación",
+        "bio": "Investigador en Ciencias de la Computación con enfoque en IA y desarrollo de software.",
+        "fullBio": "Dario aporta amplia experiencia en ingeniería de software e investigación en IA al equipo. Su experiencia incluye trabajo en empresas tecnológicas líderes e instituciones académicas, donde ha desarrollado algoritmos y sistemas de vanguardia. Está particularmente interesado en las aplicaciones prácticas de la IA en escenarios del mundo real y ha contribuido a varios proyectos de código abierto.",
+        "areas": ["Inteligencia Artificial", "Desarrollo de Software", "Aprendizaje Automático", "Diseño de Algoritmos", "Código Abierto"],
+        "education": [
+          "MSc en Ciencias de la Computación, Carnegie Mellon (2020)",
+          "BSc en Ingeniería de Software, UC Berkeley (2018)"
+        ],
+        "publications": [
+          "Algoritmos Eficientes para Procesamiento de Datos a Gran Escala (2024)",
+          "Sistemas de IA para Aplicaciones Arquitectónicas (2023)",
+          "Herramientas de Código Abierto para Colaboración en Investigación (2022)"
+        ]
+      },
+      "naomi": {
+        "name": "Naomi",
+        "role": "Estudiante de Arquitectura",
+        "bio": "Estudiante de arquitectura interesada en diseño sostenible y aplicaciones de IA en arquitectura.",
+        "fullBio": "Naomi está cursando su Maestría en Arquitectura con enfoque en diseño sostenible y biofílico. Su trabajo de pregrado en ciencias ambientales le proporciona una perspectiva interdisciplinaria única. Está particularmente interesada en cómo la IA puede usarse para optimizar el rendimiento de edificios y crear relaciones más armoniosas entre entornos construidos y naturales.",
+        "areas": ["Diseño Sostenible", "Arquitectura Biofílica", "IA en Diseño", "Ciencias Ambientales", "Construcción Verde"],
+        "education": [
+          "MSc en Arquitectura (En Progreso), Yale School of Architecture",
+          "BSc en Ciencias Ambientales, UCLA (2022)"
+        ],
+        "publications": [
+          "Diseño Biofílico en Entornos Educativos (2024)",
+          "Materiales Sostenibles en Arquitectura Contemporánea (2023)"
+        ]
+      },
+      "fabiola": {
+        "name": "Fabiola",
+        "role": "Ingeniera de Sistemas",
+        "bio": "Ingeniera de Sistemas interesada en ciencia de datos y análisis computacional.",
+        "fullBio": "Fabiola combina su formación en ingeniería con habilidades avanzadas en ciencia de datos para abordar desafíos analíticos complejos. Su experiencia abarca desde ingeniería de sistemas tradicional hasta análisis de datos modernos y aplicaciones de aprendizaje automático. Le apasiona usar datos para generar insights e informar la toma de decisiones en procesos de investigación y diseño.",
+        "areas": ["Ciencia de Datos", "Ingeniería de Sistemas", "Análisis de Datos", "Modelado Estadístico", "Visualización"],
+        "education": [
+          "MSc en Ciencia de Datos, Georgia Tech (2021)",
+          "BSc en Ingeniería de Sistemas, University of Texas (2019)"
+        ],
+        "publications": [
+          "Enfoques Basados en Datos para Diseño Sostenible (2024)",
+          "Análisis Estadístico del Rendimiento de Edificios (2023)",
+          "Técnicas de Visualización para Conjuntos de Datos Complejos (2022)"
+        ]
+      }
+    },
+    "about": "Acerca de",
+    "researchAreas": "Áreas de Investigación",
+    "publications": "Publicaciones",
+    "education": "Educación",
+    "currentProjects": "Proyectos Actuales",
+    "memberNotFound": "Miembro No Encontrado",
+    "backToTeam": "Volver al Equipo"
+  },
+  "projects": {
+    "title": "Nuestros Proyectos",
+    "subtitle": "Explora nuestros proyectos de investigación actuales que empujan los límites de la IA, el diseño sostenible y la ciencia de datos.",
+    "status": {
+      "active": "Activo",
+      "completed": "Completado"
+    },
+    "startedIn": "Iniciado en",
+    "keyHighlights": "Aspectos Destacados:",
+    "viewDetails": "Ver Detalles del Proyecto",
+    "collaboration": {
+      "title": "¿Interesado en Colaborar?",
+      "subtitle": "Siempre estamos abiertos a nuevas asociaciones y oportunidades de investigación colaborativa. Ponte en contacto para discutir proyectos potenciales.",
+      "action": "Contáctanos"
+    },
+    "elevatedCycleway": {
+      "title": "Ciclovia Elevada",
+      "description": "Diseño innovador de infraestructura ciclista elevada utilizando herramientas computacionales y visualizaciones generadas por IA.",
+      "summary": "Este proyecto explora el diseño de infraestructura ciclista elevada utilizando herramientas avanzadas de diseño computacional. Utilizamos Rhino y Grasshopper para modelado paramétrico e incorporamos imágenes y videos generados por IA para visualizar futuros entornos ciclistas.",
+      "overview": "El proyecto Ciclovia Elevada representa un enfoque revolucionario para la infraestructura de movilidad urbana. Al combinar herramientas avanzadas de diseño computacional con inteligencia artificial, estamos desarrollando soluciones innovadoras para redes de ciclismo elevadas que pueden transformar el transporte urbano. Este proyecto aprovecha el poder de Rhino y Grasshopper para diseño paramétrico, mientras incorpora imágenes y videos generados por IA para visualizar futuros entornos ciclistas.",
+      "objectives": [
+        "Diseñar infraestructura ciclista elevada eficiente usando modelado paramétrico",
+        "Integrar visualizaciones generadas por IA para mejorar la comunicación del proyecto",
+        "Desarrollar soluciones de movilidad urbana sostenible",
+        "Crear marcos de diseño computacional reutilizables"
+      ],
+      "methodology": "Nuestro enfoque combina métodos tradicionales de diseño arquitectónico con herramientas computacionales de vanguardia. Usamos Rhino 3D para modelado base y Grasshopper para diseño paramétrico, permitiéndonos iterar y optimizar diseños rápidamente. Las herramientas de IA se emplean para generar visualizaciones realistas y explorar posibilidades de diseño que podrían no ser inmediatamente aparentes a través de métodos tradicionales.",
+      "highlights": [
+        "Diseño paramétrico usando Grasshopper",
+        "Visualizaciones generadas por IA",
+        "Soluciones de movilidad urbana sostenible",
+        "Integración de herramientas de diseño computacional"
+      ]
+    },
+    "biophilicSchools": {
+      "title": "Diseño Biofílico – Escuelas",
+      "description": "Investigación sobre la integración de principios de diseño biofílico en entornos educativos para mejorar el aprendizaje y el bienestar.",
+      "summary": "Este proyecto de investigación investiga cómo los principios de diseño biofílico pueden integrarse efectivamente en entornos escolares para crear espacios de aprendizaje más saludables y atractivos que conecten a los estudiantes con la naturaleza.",
+      "overview": "El proyecto Diseño Biofílico – Escuelas investiga cómo la integración de elementos naturales y principios de diseño biofílico puede mejorar significativamente los entornos de aprendizaje en entornos educativos. Esta investigación combina estrategias de diseño basadas en evidencia con soluciones arquitectónicas innovadoras para crear espacios que no solo apoyen el logro académico sino que también promuevan el bienestar estudiantil y la conciencia ambiental.",
+      "objectives": [
+        "Investigar el impacto del diseño biofílico en el aprendizaje y bienestar estudiantil",
+        "Desarrollar pautas de diseño para entornos educativos",
+        "Crear recomendaciones basadas en evidencia para arquitectura escolar",
+        "Promover espacios de aprendizaje sostenibles y saludables"
+      ],
+      "methodology": "Nuestra metodología de investigación incluye revisión bibliográfica integral, análisis de casos de estudio e investigación de campo en instalaciones educativas existentes. Empleamos métodos de investigación tanto cuantitativos como cualitativos para entender la relación entre elementos de diseño natural y resultados educativos. La recolección de datos incluye mediciones ambientales, encuestas estudiantiles y análisis de rendimiento académico.",
+      "highlights": [
+        "Investigación y análisis de pre-diseño",
+        "Estrategias de diseño basadas en evidencia",
+        "Enfoque en el bienestar estudiantil",
+        "Sostenibilidad ambiental"
+      ]
+    },
+    "projectNotFound": "Proyecto No Encontrado",
+    "backToProjects": "Volver a Proyectos",
+    "projectOverview": "Resumen del Proyecto",
+    "objectives": "Objetivos",
+    "methodology": "Metodología",
+    "projectDetails": "Detalles del Proyecto",
+    "teamMembers": "Miembros del Equipo",
+    "projectResources": "Recursos del Proyecto",
+    "projectGallery": "Galería del Proyecto"
+  },
+  "announcements": {
+    "title": "Anuncios",
+    "subtitle": "Mantente actualizado con las últimas noticias, eventos y desarrollos de Data Arch Labs.",
+    "types": {
+      "meeting": "Reunión",
+      "publication": "Publicación",
+      "conference": "Conferencia",
+      "team": "Equipo",
+      "funding": "Financiamiento"
+    },
+    "priority": {
+      "high": "Alta Prioridad",
+      "medium": "Prioridad Media",
+      "low": "Baja Prioridad"
+    },
+    "joinMeeting": "Unirse a la Reunión",
+    "learnMore": "Saber Más",
+    "stayUpdated": {
+      "title": "Mantente Actualizado",
+      "subtitle": "¿Quieres recibir anuncios directamente? Contáctanos para unirte a nuestra lista de correo y nunca perderte actualizaciones importantes.",
+      "action": "Suscribirse a Actualizaciones"
+    },
+    "items": {
+      "weeklyMeeting": {
+        "title": "Reunión Semanal de Investigación - Actualizaciones de Proyectos",
+        "content": "Únete a nosotros en nuestra reunión semanal de investigación donde los miembros del equipo presentarán actualizaciones sobre proyectos actuales. Discutiremos el progreso del proyecto Ciclovia Elevada y revisaremos hallazgos de la investigación de Diseño Biofílico.",
+        "attendees": "Todos los miembros del equipo"
+      },
+      "newPublication": {
+        "title": "Nueva Publicación: IA en Arquitectura Sostenible",
+        "content": "Estamos emocionados de anunciar la publicación de nuestro último artículo de investigación \"Diseño Paramétrico Impulsado por IA para Arquitectura Sostenible\" en el Journal of Computational Design. Este trabajo representa un hito significativo en nuestra investigación sobre metodologías de diseño computacional."
+      },
+      "conference": {
+        "title": "Presentación en Conferencia en DigitalFUTURES 2025",
+        "content": "Santiago presentará nuestro proyecto Ciclovia Elevada en la conferencia DigitalFUTURES 2025. La presentación mostrará nuestro uso innovador de IA en diseño de infraestructura urbana y la integración de herramientas computacionales en el proceso de diseño."
+      },
+      "newMember": {
+        "title": "Bienvenido Nuevo Miembro del Equipo: Dra. Elena Rodriguez",
+        "content": "Nos complace dar la bienvenida a la Dra. Elena Rodriguez a nuestro grupo de investigación. Elena aporta experiencia en psicología ambiental y diseño sostenible, lo que mejorará enormemente nuestras iniciativas de investigación en diseño biofílico."
+      },
+      "funding": {
+        "title": "Financiamiento de Beca Asegurado para Proyecto Escuelas Biofílicas",
+        "content": "¡Excelentes noticias! Hemos asegurado financiamiento adicional de la Fundación de Educación Sostenible para expandir nuestro proyecto Diseño Biofílico – Escuelas. Este financiamiento nos permitirá realizar estudios de campo más completos y desarrollar pautas de diseño detalladas."
+      }
+    }
+  },
+  "footer": {
+    "description": "Grupo de investigación interdisciplinario enfocado en innovaciones de IA, diseño sostenible y ciencia de datos.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "version": "Versión 0.1.1",
+    "copyright": "© 2025 Data Arch Labs. Todos los derechos reservados."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "notFound": "No Encontrado",
+    "backToHome": "Volver al Inicio",
+    "contactUs": "Contáctanos",
+    "readMore": "Leer Más",
+    "viewAll": "Ver Todo",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "menu": "Menú"
+  }
+}
