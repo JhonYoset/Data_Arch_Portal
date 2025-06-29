@@ -12,7 +12,7 @@ const Team: React.FC = () => {
       name: t('team.members.santiago.name'),
       role: t('team.members.santiago.role'),
       bio: t('team.members.santiago.bio'),
-      avatar: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400',
+      avatar: '/santiago.jpeg?auto=compress&cs=tinysrgb&w=400',
       areas: t('team.members.santiago.areas', { returnObjects: true }) as string[],
       social: {
         github: 'santiago-researcher',
@@ -50,7 +50,7 @@ const Team: React.FC = () => {
       name: t('team.members.fabiola.name'),
       role: t('team.members.fabiola.role'),
       bio: t('team.members.fabiola.bio'),
-      avatar: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=400',
+      avatar: '/fabiola.jpeg?auto=compress&cs=tinysrgb&w=400',
       areas: t('team.members.fabiola.areas', { returnObjects: true }) as string[],
       social: {
         github: 'fabiola-data',

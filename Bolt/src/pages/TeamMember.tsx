@@ -31,10 +31,10 @@ const TeamMember: React.FC = () => {
 
   const getAvatarUrl = (memberId: string) => {
     const avatars: { [key: string]: string } = {
-      santiago: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=800',
+      santiago: '/santiago.jpeg?auto=compress&cs=tinysrgb&w=800',
       dario: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=800',
       naomi: 'https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=800',
-      fabiola: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800'
+      fabiola: '/fabiola.jpeg?auto=compress&cs=tinysrgb&w=800'
     };
     return avatars[memberId] || '';
   };
@@ -53,7 +53,7 @@ const TeamMember: React.FC = () => {
     const socialMap: { [key: string]: any } = {
       santiago: {
         github: 'santiago-researcher',
-        linkedin: 'santiago-pi',
+        linkedin: 'santiago-diaz-a60a2010',
         email: 'santiago@dataarchlabs.com'
       },
       dario: {
@@ -67,7 +67,7 @@ const TeamMember: React.FC = () => {
       },
       fabiola: {
         github: 'fabiola-data',
-        linkedin: 'fabiola-systems',
+        linkedin: 'fabiola-grissel',
         email: 'fabiola@dataarchlabs.com'
       }
     };
